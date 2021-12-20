@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nlin02
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Computer Science and Chinese
-- 💞️ Some of my projects/codes can be found under starred
+- 💞️ Some of my projects/codes can be found under "Stars"
 - 📫 How to reach me ...
 
 <!---
