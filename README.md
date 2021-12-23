@@ -2,6 +2,7 @@
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Computer Science and Chinese
 - 💞️ Some of my projects/codes can be found under "Stars"
+- ✨ My personal website is https://ninalin.weebly.com/
 - 📫 How to reach me ...
 
 <!---
